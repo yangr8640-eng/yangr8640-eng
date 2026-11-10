@@ -1,25 +1,31 @@
-<table>
-  <tr>
-    <td valign="top" width="220">
-      <img src="https://raw.githubusercontent.com/yangr8640-eng/yangr8640-eng/main/avatar_styled.jpg" width="200" style="border-radius: 50%;" />
-      <br><br>
-      <b>YANG Rui</b><br>
-      EE Student @ CUHK-Shenzhen
-    </td>
-    <td valign="top">
-      <pre>
-┌──────────────────────────────────────────────────────────┐
-│  OS          :  Windows 11 / Linux                       │
-│  Editor      :  VS Code / Cursor                         │
-│  Languages   :  Python, C/C++, MATLAB, Verilog           │
-│  Focus       :  EEG Signal Processing · Optimization     │
-│  Status      :  Year 3 · Research Lab (Depression Diag)  │
-│  Fitness     :  83-85kg · 4x/week Upper/Lower Split      │
-└──────────────────────────────────────────────────────────┘
-      </pre>
-    </td>
-  </tr>
-</table>
+```
+                    g@M%@@%N%Nw..          yangr8640-eng ----------------
+                 .H* | || *%gNM= |mP%g | %N.   OS ............ Windows 11 / Linux
+               p| . | . | | . | | |jhLj$w      Editor ........ VS Code / Cursor
+              @L . . . . . . . . . | |j$M|%M   Languages ..... Python, C/C++, MATLAB
+            ]j . . . wp@pw. . . . . . |%g      Focus ......... EEG · Optimization
+           /{ | | |@@@@@@@@pp. . . . . | | |   Status ........ Year 3 EE · Lab
+          . ]@@@@@@@@@@@@@@@@@@@@@p . . . | | Fitness ....... 83-85kg · 4x/week
+         . : |%@@@@@@@@@@@@@@@@@@kkh * | |mkr
+         j%M | jkk -nrn=|i
+        | jrr~~ . ! L! !
+        j !p... . / @@ .: \nmy " -
+       1 r @@@@mHM @@@@ ~~~~M=.p . .
+       | ]@@@HHH|g@M%%%AH,jmgpnb% j
+       : :%%%k%e[.,.n|.:.;j%k|%k% . [
+       H|%k%%j%k| . .:j: | %i]j]@
+       "djjmkL," ]|[....wwow; |#kjk
+        %; %km%%MH|%jkkii | | |
+        kj j%kkkl | | | | | | | |
+         |jmH@@db%kkmk%i | . [
+         @p| j%%%jkk| | |* . ; [
+          ]@@@g| . . . . . ;j%k
+          @@@@@mgp... . . ;j%%%
+         @@@@@@@@%kgki | | jjj%%e
+        . `[ . %@@@HH%b%k(illljk]%%% .
+       =[ . . %HH%%%H@gkilllj j%kk% . 1
+
+```
 
 ## Stats
 
