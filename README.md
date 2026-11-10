@@ -1,14 +1,12 @@
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yangr8640-eng/yangr8640-eng/main/avatar.jpg" width="200" style="border-radius: 50%;" />
+
+**YANG Rui**  |  EE Student @ CUHK-Shenzhen
+
+</div>
+
 ```
-
-██╗   ██╗ █████╗ ███╗   ██╗ ██████╗     ██████╗ ██╗   ██╗██╗
-╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝     ██╔══██╗██║   ██║██║
- ╚████╔╝ ███████║██╔██╗ ██║██║  ███╗    ██████╔╝██║   ██║██║
-  ╚██╔╝  ██╔══██║██║╚██╗██║██║   ██║    ██╔══██╗██║   ██║██║
-   ██║   ██║  ██║██║ ╚████║╚██████╔╝    ██║  ██║╚██████╔╝██║
-   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝
-
-                    YANG Rui  |  EE Student @ CUHK-Shenzhen
-
 ┌──────────────────────────────────────────────────────────┐
 │  OS          :  Windows 11 / Linux                       │
 │  Editor      :  VS Code / Cursor                         │
@@ -17,6 +15,7 @@
 │  Status      :  Year 3 · Research Lab (Depression Diag)  │
 │  Fitness     :  83-85kg · 4x/week Upper/Lower Split      │
 └──────────────────────────────────────────────────────────┘
+```
 
 ## Stats
 
@@ -26,5 +25,3 @@
 
 - Email: yangr8640@gmail.com
 - X: [@YangRui58429](https://x.com/YangRui58429)
-
-```
