@@ -1,12 +1,13 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/yangr8640-eng/yangr8640-eng/main/avatar.jpg" width="200" style="border-radius: 50%;" />
-
-**YANG Rui**  |  EE Student @ CUHK-Shenzhen
-
-</div>
-
-```
+<table>
+  <tr>
+    <td valign="top" width="220">
+      <img src="https://raw.githubusercontent.com/yangr8640-eng/yangr8640-eng/main/avatar_styled.jpg" width="200" style="border-radius: 50%;" />
+      <br><br>
+      <b>YANG Rui</b><br>
+      EE Student @ CUHK-Shenzhen
+    </td>
+    <td valign="top">
+      <pre>
 ┌──────────────────────────────────────────────────────────┐
 │  OS          :  Windows 11 / Linux                       │
 │  Editor      :  VS Code / Cursor                         │
@@ -15,7 +16,10 @@
 │  Status      :  Year 3 · Research Lab (Depression Diag)  │
 │  Fitness     :  83-85kg · 4x/week Upper/Lower Split      │
 └──────────────────────────────────────────────────────────┘
-```
+      </pre>
+    </td>
+  </tr>
+</table>
 
 ## Stats
 
