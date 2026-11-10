@@ -1,16 +1,30 @@
-## Hi there 👋
+```
 
-<!--
-**yangr8640-eng/yangr8640-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+██╗   ██╗ █████╗ ███╗   ██╗ ██████╗     ██████╗ ██╗   ██╗██╗
+╚██╗ ██╔╝██╔══██╗████╗  ██║██╔════╝     ██╔══██╗██║   ██║██║
+ ╚████╔╝ ███████║██╔██╗ ██║██║  ███╗    ██████╔╝██║   ██║██║
+  ╚██╔╝  ██╔══██║██║╚██╗██║██║   ██║    ██╔══██╗██║   ██║██║
+   ██║   ██║  ██║██║ ╚████║╚██████╔╝    ██║  ██║╚██████╔╝██║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝
 
-Here are some ideas to get you started:
+                    YANG Rui  |  EE Student @ CUHK-Shenzhen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──────────────────────────────────────────────────────────┐
+│  OS          :  Windows 11 / Linux                       │
+│  Editor      :  VS Code / Cursor                         │
+│  Languages   :  Python, C/C++, MATLAB, Verilog           │
+│  Focus       :  EEG Signal Processing · Optimization     │
+│  Status      :  Year 3 · Research Lab (Depression Diag)  │
+│  Fitness     :  83-85kg · 4x/week Upper/Lower Split      │
+└──────────────────────────────────────────────────────────┘
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yangr8640-eng&show_icons=true&theme=dark)
+
+## Contact
+
+- Email: yangr8640@gmail.com
+- X: [@YangRui58429](https://x.com/YangRui58429)
+
+```
